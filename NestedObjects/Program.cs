@@ -15,7 +15,7 @@ namespace NestedObjects
             Course cpw212 = new Course()
             {
                 CourseId = 1,
-                Title = "Advanced .NET",
+                CourseTitle = "Advanced .NET",
                 Credits = 5,
                 Description = "Advanced C#"
             };
